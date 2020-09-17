@@ -19,12 +19,10 @@ import java.util.TreeMap;
  */
 
 /**
- * git test1
- * git test2
+ * git master
  */
 public class WriterExcel {
     public static void main(String[] args) {
-        System.out.println("git test1");
         // 1. 创建工作簿
         XSSFWorkbook workbook = new XSSFWorkbook();
         // 2. 创建工作表
